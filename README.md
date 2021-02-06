@@ -20,6 +20,7 @@ Once created don't forget to update the:
 - Package of the source files
 
 ## Features 🎨
+Someone said features? I heared you, I'll find you 😂😂
 
 - **100% Kotlin-only template**.
 - JetPack compose `1.0.0-alpha11`.
