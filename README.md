@@ -13,10 +13,10 @@ Just click on [![Use this template](https://img.shields.io/badge/-Use%20this%20t
 Once created don't forget to update the:
 - [App ID](buildSrc/src/main/java/Coordinates.kt)
 - AndroidManifest: 
-  - UI Modulate: ([here](ui/src/main/AndroidManifest.xml)
-  - Presentation Module: ([here](presentation/src/main/AndroidManifest.xml)
-  - Data Module: ([here](data/src/main/AndroidManifest.xml)
-  - Device Module: ([here](device/src/main/AndroidManifest.xml)
+  - [UI Module](ui/src/main/AndroidManifest.xml)
+  - [Presentation Module](presentation/src/main/AndroidManifest.xml)
+  - [Data Module](data/src/main/AndroidManifest.xml)
+  - [Device Module](device/src/main/AndroidManifest.xml)
 - Package of the source files
 
 ## Features 🎨
