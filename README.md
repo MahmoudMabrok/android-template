@@ -1,4 +1,4 @@
-# kotlin-android-template 🤖
+# Clean architecture kotlin template 🤖
 
 [![Use this template](https://img.shields.io/badge/from-Clean--Architecture--Template-brightgreen?logo=github)](https://github.com/AbdElraoufSabri/android-template/generate) ![Pre Merge Checks](https://github.com/AbdElraoufSabri/android-template/workflows/Pre%20Merge%20Checks/badge.svg)  ![License](https://img.shields.io/github/license/AbdElraoufSabri/android-template.svg) ![Language](https://img.shields.io/github/languages/top/AbdElraoufSabri/android-template?color=blue&logo=kotlin)
 
