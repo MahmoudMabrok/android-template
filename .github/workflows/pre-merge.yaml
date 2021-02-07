@@ -17,13 +17,11 @@ jobs:
     if: ${{ !contains(github.event.head_commit.message, 'ci skip') }}
     steps:
       - name: set up JDK 11
-        uses: actions/setup-java@v2
+        uses: actions/setup-java@v1
         with:
           java-version: 11
-
       - name: Checkout Repo
         uses: actions/checkout@v2
-
       - name: Cache Gradle Files
         uses: actions/cache@v2
         with:
@@ -31,9 +29,7 @@ jobs:
             ~/.gradle/caches/
             ~/.gradle/wrapper/
           key: cache-gradle
-
       - name: Run Gradle tasks
         run: ./gradlew build check publishToMavenLocal --continue
-        
       - name: Stop Gradle
         run: ./gradlew --stop
