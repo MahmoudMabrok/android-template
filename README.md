@@ -2,7 +2,7 @@
 
 [![Use this template](https://img.shields.io/badge/from-Clean--Architecture--Template-brightgreen?logo=github)](https://github.com/AbdElraoufSabri/android-template/generate) ![Pre Merge Checks](https://github.com/AbdElraoufSabri/android-template/workflows/Pre%20Merge%20Checks/badge.svg)  ![License](https://img.shields.io/github/license/AbdElraoufSabri/android-template.svg) ![Language](https://img.shields.io/github/languages/top/AbdElraoufSabri/android-template?color=blue&logo=kotlin)
 
-A simple Github template that lets you create an **Android/Kotlin** project and be up and running in a **few seconds**, Which is suitable for **Clean architecture projects**.
+A simple **Github template** that lets you create an **Android/Kotlin** project and be up and running in a **few seconds**, Which is suitable for **Clean architecture projects**.
 
 This template is focused on delivering a project with **static analysis** and **continuous integration** already in place.
 
@@ -23,7 +23,7 @@ Once created don't forget to update the:
 Someone said features? I heared you, I'll find you 😂😂
 
 - **100% Kotlin-only template**.
-- JetPack compose `1.0.0-alpha11`.
+- JetPack Compose `1.0.0-alpha11`.
 - All layers of clean architecture (UI, Presentation, Domain, Data, Device) you may also add (Remote and Cache as needed).
 - Sample Espresso, Instrumentation & JUnit tests.
 - 100% Gradle Kotlin DSL setup.
@@ -65,4 +65,4 @@ Feel free to open a issue or submit a pull request for any bugs/improvements.
 
 ## Original Repo
 
-This is just a modification to the great work of [**cortinico**](https://github.com/cortinico) and the [**original repo**](https://github.com/cortinico/kotlin-android-template). I customized the repo to my needs for further imporvments.
+This is just a modification to the great work of [**cortinico**](https://github.com/cortinico) and the [**original repo**](https://github.com/cortinico/kotlin-android-template). I have customized the repo to my needs for further improvements.

@@ -1,4 +1,4 @@
-package tech.abd3lraouf.template.library.android
+package tech.abd3lraouf.template.data.android
 
 import android.app.Notification
 import androidx.test.ext.junit.runners.AndroidJUnit4
