@@ -1,4 +1,4 @@
-package tech.and3lraouf.template
+package tech.and3lraouf.template.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

@@ -1,9 +1,9 @@
-package tech.abd3lraouf.template.library
+package tech.abd3lraouf.template.domain
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertThrows
 import org.junit.Test
-import tech.abd3lraouf.template.library.FactorialCalculator.computeFactorial
+import tech.abd3lraouf.template.domain.FactorialCalculator.computeFactorial
 import java.lang.Exception
 
 /**

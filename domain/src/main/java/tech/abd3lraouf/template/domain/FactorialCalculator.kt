@@ -1,4 +1,4 @@
-package tech.abd3lraouf.template.library
+package tech.abd3lraouf.template.domain
 
 object FactorialCalculator {
 

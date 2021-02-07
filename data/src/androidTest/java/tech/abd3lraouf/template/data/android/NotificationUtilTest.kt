@@ -1,4 +1,4 @@
-package tech.abd3lraouf.template.library.android
+package tech.abd3lraouf.template.data.android
 
 import android.app.Notification
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -6,6 +6,7 @@ import androidx.test.platform.app.InstrumentationRegistry
 import org.junit.Assert.assertEquals
 import org.junit.Test
 import org.junit.runner.RunWith
+import tech.abd3lraouf.template.data.android.NotificationUtil
 
 /**
  * Instrumented test, which will execute on an Android device.
